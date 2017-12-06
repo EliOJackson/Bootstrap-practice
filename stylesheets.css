@@ -1,0 +1,38 @@
+.column-example {
+    border: 2px solid;
+    background-color: grey;
+} 
+
+.background {
+    background-color: black;
+}
+
+.col-bg {
+    background-color: #343a41;
+    border-radius: .25rem;
+}
+
+.floatleft {
+    float: left;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link { 
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.bg-light {
+    background-color: orange !important;
+}
+a {
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.badge {
+    font-size: 180%;
+    width: 80%;
+}
